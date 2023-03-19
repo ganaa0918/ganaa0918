@@ -10,14 +10,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ganaa0918&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+![rem](https://user-images.githubusercontent.com/82430690/226175860-bd59ece7-8ce7-4e2c-8639-6ad8626d06fa.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=ganaa0918&icon=7&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vander) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Gantulga Ganaa Gantulga) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
